@@ -1,0 +1,29 @@
+{
+  "name": "ralph-loops-pro",
+  "version": "1.0.0",
+  "description": "Professional Ralph Loop templates for visual debugging, ASO workflows, and iOS/macOS deployment. Integrates with Claude for Chrome MCP and envmem.com for persistent memory.",
+  "author": {
+    "name": "Sami Halawa",
+    "email": "sami@halawa.dev"
+  },
+  "homepage": "https://github.com/samihalawa/ralph-loops-pro-claude",
+  "repository": "https://github.com/samihalawa/ralph-loops-pro-claude",
+  "license": "MIT",
+  "keywords": [
+    "ralph-loop",
+    "visual-debugging",
+    "aso",
+    "fastlane",
+    "ios",
+    "macos",
+    "deployment",
+    "automation",
+    "claude-for-chrome",
+    "envmem"
+  ],
+  "mcpServers": {
+    "envmem": {
+      "url": "https://envmem.com/mcp"
+    }
+  }
+}
