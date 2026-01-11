@@ -1,0 +1,43 @@
+{
+  "name": "ralph-loops-pro",
+  "version": "2.0.0",
+  "description": "Professional Ralph Loop templates for Claude Code - Visual debugging, ASO workflows, iOS/Android deployment, and 32 SS agent prompts for meta-analysis, coding, research, and business automation.",
+  "keywords": [
+    "ralph-loop",
+    "visual-debugging",
+    "aso",
+    "fastlane",
+    "ios",
+    "macos",
+    "deployment",
+    "automation",
+    "claude-for-chrome",
+    "envmem",
+    "ss-commands",
+    "meta-prompt",
+    "agent-architect",
+    "context-analyzer",
+    "code-repair",
+    "manus",
+    "autopilot",
+    "research",
+    "proposal-generator",
+    "business-model",
+    "outreach",
+    "conversation-analyzer",
+    "cot-debugger",
+    "git-sync",
+    "tidb-migration"
+  ],
+  "mcpServers": {
+    "envmem": {
+      "url": "https://envmem.com/mcp"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samihalawa/ralph-loops-pro-claude"
+  },
+  "author": "Sami Halawa",
+  "license": "MIT"
+}
